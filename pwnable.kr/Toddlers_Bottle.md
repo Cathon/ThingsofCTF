@@ -107,7 +107,7 @@ daddy! I just managed to create a hash collision :)
 
 字符串和整型在内存中的存取方法。（想了好久才想明白，底层知识不扎实）  
 0x00 没有对应的字符  
-小端序和大端序的问题，放两个链接 [1](http://www.cnblogs.com/graphics/archive/2011/04/22/2010662.html) [2](http://www.cnblogs.com/flysnail/archive/2011/10/25/2223721.html)  
+**小端序**和**大端序**的问题，放两个链接 [1](http://www.cnblogs.com/graphics/archive/2011/04/22/2010662.html) [2](http://www.cnblogs.com/flysnail/archive/2011/10/25/2223721.html)  
 
 
 
